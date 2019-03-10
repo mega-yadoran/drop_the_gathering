@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: daf35323f8feda547bd8ea903a2a6388
+timeCreated: 1552217777
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Arphic HighcollarPOPtai Heavy JIS
+  fontNames:
+  - Arphic HighcollarPOPtai Heavy JIS
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

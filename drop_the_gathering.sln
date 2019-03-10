@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{393CBCA3-CC18-68DA-7C73-9CAB746BE741}"
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "drop_the_gathering", "drop_the_gathering.csproj", "{8813B0EC-94CC-5505-7C5E-78CBB66C28AA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{393CBCA3-CC18-68DA-7C73-9CAB746BE741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{393CBCA3-CC18-68DA-7C73-9CAB746BE741}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{393CBCA3-CC18-68DA-7C73-9CAB746BE741}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{393CBCA3-CC18-68DA-7C73-9CAB746BE741}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8813B0EC-94CC-5505-7C5E-78CBB66C28AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8813B0EC-94CC-5505-7C5E-78CBB66C28AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8813B0EC-94CC-5505-7C5E-78CBB66C28AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8813B0EC-94CC-5505-7C5E-78CBB66C28AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

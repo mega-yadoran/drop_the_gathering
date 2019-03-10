@@ -7,10 +7,12 @@ public class EnemyController : MonoBehaviour
     public float v;
 
     private Rigidbody rb;
+    private float speed;
 
     // Start is called before the first frame update
     void Start()
     {
+        speed = v * Random.Range(0.8f, 3f);
         rb = transform.GetComponent<Rigidbody>();
     }
 
@@ -22,6 +24,6 @@ public class EnemyController : MonoBehaviour
 
     void Move()
     {
-        rb.velocity = Vector3.forward * v * Time.deltaTime;
+        rb.velocity = Vector3.forward * speed;
     }
 }
